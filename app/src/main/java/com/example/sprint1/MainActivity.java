@@ -1,5 +1,8 @@
 package com.example.sprint1;
 
+import static androidx.core.content.ContextCompat.startActivity;
+
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -23,6 +26,12 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+    }
+
+    Button batonchik = findViewById(R.id.button);
+    public void onClick1(View v){
+        Intent intent = new Intent (MainActivity.this, HelloActivity.class);
+        startActivity(intent);
     }
 
 

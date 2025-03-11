@@ -1,0 +1,12 @@
+<activity android:name="HelloActivity"
+            tools:ignore="Instantiatable" />
+        <activity android:name="HomeActivity"
+            tools:ignore="Instantiatable" />
+        <activity android:name="OutdoorActivity"
+            tools:ignore="Instantiatable" />
+        <activity android:name="PopularitiActivity"
+            tools:ignore="Instantiatable" />
+        <activity android:name="StraightActivity"
+            tools:ignore="Instantiatable" />
+        <activity android:name="TravelActivity"
+            tools:ignore="Instantiatable" />

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#48B2E7"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="184dp"
+        android:layout_height="124dp"
+        android:layout_x="115dp"
+        android:layout_y="86dp"
+        android:text="@string/dobropozh"
+        android:textAlignment="center"
+        android:textColor="@color/Block"
+        android:textSize="70px" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="397dp"
+        android:layout_x="0dp"
+        android:layout_y="173dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_1"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="379dp"
+        android:layout_height="73dp"
+        android:layout_x="16dp"
+        android:layout_y="610dp"
+        android:text="@string/nachat"
+        android:textColor="@color/Text" />
+
+    <com.google.android.material.chip.ChipGroup
+        android:layout_width="wrap_content"
+        android:layout_height="23dp"
+        android:layout_x="129dp"
+        android:layout_y="581dp">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip"
+            android:background="@color/Block"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip2"
+            android:background="@color/Disable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip3"
+            android:background="@color/Disable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </com.google.android.material.chip.ChipGroup>
+
+</AbsoluteLayout>

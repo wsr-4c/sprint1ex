@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#48B2E7"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="397dp"
+        android:layout_x="8dp"
+        android:layout_y="4dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_2"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="357dp"
+        android:layout_height="71dp"
+        android:layout_x="22dp"
+        android:layout_y="629dp"
+        android:text="@string/next"
+        android:textColor="@color/Text" />
+
+    <com.google.android.material.chip.ChipGroup
+        android:layout_width="wrap_content"
+        android:layout_height="23dp"
+        android:layout_x="129dp"
+        android:layout_y="581dp">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip"
+            android:background="@color/Block"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip2"
+            android:background="@color/Disable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip3"
+            android:background="@color/Disable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </com.google.android.material.chip.ChipGroup>
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="248dp"
+        android:layout_height="89dp"
+        android:layout_x="77dp"
+        android:layout_y="402dp"
+        android:text="@string/travel"
+        android:textAlignment="center"
+        android:textColor="@color/Block"
+        android:textSize="70px" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="253dp"
+        android:layout_height="108dp"
+        android:layout_x="70dp"
+        android:layout_y="466dp"
+        android:text="@string/descript_travel"
+        android:textAlignment="center"
+        android:textColor="@color/SubTextLight"
+        android:textSize="40px" />
+
+</AbsoluteLayout>
