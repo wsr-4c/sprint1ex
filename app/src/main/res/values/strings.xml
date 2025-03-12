@@ -20,10 +20,31 @@
     <string name= "search">Поиск</string>
     <string name="descript_travel">Умная, великолепная и модная коллекцтя Изучите сейчас</string>
     <string name= "category">Категории</string>
-    <string name= "popularity">Популярное
-</string><string name= "sale">Акции</string>
+    <string name= "popularity">Популярное</string><string name= "sale">Акции</string>
     <string name= "all">Всё</string>
     <string name= "outdoor">Outdoor</string>
     <string name= "tennis">Tennis</string>
+    <string name= "favorite">Избранное</string>
+    <string name= "NikeTopShoes">Nike Top Shoes</string>
+    <string name= "NewShoes">New Shoes</string>
+    <string name= "NikeAirForce">Nike Air Force</string>
+    <string name= "Shoes">Shoes</string>
+    <string name= "SnakersNikeShoes">Snakers Nike Shoes</string>
+    <string name= "RegularShoes">Regular Shoes</string>
+    <string name= "MyCart">Корзина</string>
+    <string name= "countTovar">3 товара</string>
+    <string name= "NikeClubMax">Nike Club Max</string>
+    <string name= "NikeAirMax200">Nike Air Max 200</string>
+    <string name= "NikeAirMax270Essential">Nike Air Max 270 Essential</string>
+    <string name= "mycartof">Оформить Заказ</string>
+    <string name= "sum">Сумма</string>
+    <string name= "dost">Доставка</string>
+    <string name= "itogo">Итого</string>
+    <string name= "SneakerShop">Sneaker Shop</string>
+    <string name= "MensShoes">Men’s Shoes</string>
+    <string name= "desriptionMensShoes">Вставка Max Air 270 обеспечивает непревзойденный комфорт в течение всего дня. Изящный дизайн ........</string>
+    <string name= "podrobnee">Подробнее</string>
+    <string name= "inmycart">В Корзину</string>
+
 
 </resources>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_x="0dp"
+    android:layout_y="0dp"
+    android:background="@color/Background">
+
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="121dp"
+        android:layout_height="30dp"
+        android:layout_x="65dp"
+        android:layout_y="291dp"
+        android:text="@string/Shoes" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="121dp"
+        android:layout_height="30dp"
+        android:layout_x="65dp"
+        android:layout_y="372dp"
+        android:text="@string/RegularShoes" />
+
+    <ImageView
+        android:id="@+id/imageView26"
+        android:layout_width="21dp"
+        android:layout_height="19dp"
+        android:layout_x="38dp"
+        android:layout_y="375dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_25"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <ImageView
+        android:id="@+id/imageView25"
+        android:layout_width="21dp"
+        android:layout_height="19dp"
+        android:layout_x="37dp"
+        android:layout_y="336dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_25"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_x="37dp"
+        android:layout_y="299dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_25"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="121dp"
+        android:layout_height="30dp"
+        android:layout_x="64dp"
+        android:layout_y="249dp"
+        android:text="@string/NikeAirForce" />
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="21dp"
+        android:layout_height="19dp"
+        android:layout_x="37dp"
+        android:layout_y="255dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_25"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="121dp"
+        android:layout_height="30dp"
+        android:layout_x="64dp"
+        android:layout_y="208dp"
+        android:text="@string/NikeTopShoes" />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="21dp"
+        android:layout_height="19dp"
+        android:layout_x="36dp"
+        android:layout_y="212dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_25"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="21dp"
+        android:layout_height="19dp"
+        android:layout_x="36dp"
+        android:layout_y="172dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_25"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="121dp"
+        android:layout_height="30dp"
+        android:layout_x="63dp"
+        android:layout_y="171dp"
+        android:text="@string/NewShoes" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="188dp"
+        android:layout_height="30dp"
+        android:layout_x="65dp"
+        android:layout_y="331dp"
+        android:text="@string/SnakersNikeShoes" />
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="36dp"
+        android:layout_height="35dp"
+        android:layout_x="21dp"
+        android:layout_y="46dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_22"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+
+    <ImageView
+        android:id="@+id/imageView81"
+        android:layout_width="401dp"
+        android:layout_height="68dp"
+        android:layout_x="7dp"
+        android:layout_y="89dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_47"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="258dp"
+        android:layout_height="wrap_content"
+        android:layout_x="84dp"
+        android:layout_y="50dp"
+        android:text="@string/search"
+        android:textAlignment="center"
+
+        android:textColor="@color/Text"
+        android:textSize="48px" />
+
+
+</AbsoluteLayout>

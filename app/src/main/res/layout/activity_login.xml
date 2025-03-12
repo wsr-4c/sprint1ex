@@ -103,6 +103,7 @@
         android:layout_x="25dp"
         android:layout_y="464dp"
         android:text="@string/login"
+        android:backgroundTint="@color/Accent"
         android:textColor="@color/Background"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="28dp"
