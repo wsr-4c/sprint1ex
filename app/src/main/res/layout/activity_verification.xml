@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_x="0dp"
+    android:layout_y="0dp"
+    tools:ignore="ExtraText">
+
+
+    <TextView
+        android:id="@+id/textView33"
+        android:layout_width="258dp"
+        android:layout_height="wrap_content"
+        android:layout_x="25dp"
+        android:layout_y="502dp"
+        android:text="@string/otprzanovo"
+        android:textColor="@color/SubTextDark"/>
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="31dp"
+        android:layout_y="365dp"
+        android:text="@string/OTPkod"
+        android:textColor="@color/Text"
+        android:textSize="48px" />
+
+    <ImageView
+        android:id="@+id/imageView48"
+        android:layout_width="36dp"
+        android:layout_height="35dp"
+        android:layout_x="21dp"
+        android:layout_y="46dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_22"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:layout_x="88dp"
+        android:layout_y="179dp"
+        android:text="@string/OTPprov"
+        android:textAlignment="center"
+        android:textSize="80px"
+        tools:layout_editor_absoluteX="145dp"
+        tools:layout_editor_absoluteY="139dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="328dp"
+        android:layout_height="69dp"
+        android:layout_x="40dp"
+        android:layout_y="226dp"
+        android:text="@string/descriptionOTP"
+        android:textAlignment="center"
+        android:textColor="@color/SubTextDark"
+        android:textSize="46px"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="41dp"
+        tools:layout_editor_absoluteY="192dp" />
+
+    <EditText
+        android:id="@+id/editTextText10"
+        android:layout_width="53dp"
+        android:layout_height="77dp"
+        android:layout_x="29dp"
+        android:layout_y="401dp"
+        android:backgroundTint="@color/Block"
+        android:ems="10"
+        android:hint="0"
+        android:inputType="text"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/editTextText14"
+        android:layout_width="53dp"
+        android:layout_height="77dp"
+        android:layout_x="326dp"
+        android:layout_y="401dp"
+        android:backgroundTint="@color/Block"
+        android:ems="10"
+        android:hint="0"
+        android:inputType="text"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/editTextText15"
+        android:layout_width="53dp"
+        android:layout_height="77dp"
+        android:layout_x="267dp"
+        android:layout_y="401dp"
+        android:backgroundTint="@color/Block"
+        android:ems="10"
+        android:hint="0"
+        android:inputType="text"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/editTextText12"
+        android:layout_width="53dp"
+        android:layout_height="77dp"
+        android:layout_x="207dp"
+        android:layout_y="401dp"
+        android:backgroundTint="@color/Block"
+        android:ems="10"
+        android:hint="0"
+        android:inputType="text"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/editTextText13"
+        android:layout_width="53dp"
+        android:layout_height="77dp"
+        android:layout_x="148dp"
+        android:layout_y="401dp"
+        android:backgroundTint="@color/Block"
+        android:ems="10"
+        android:hint="0"
+        android:inputType="text"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/editTextText11"
+        android:layout_width="53dp"
+        android:layout_height="77dp"
+        android:layout_x="88dp"
+        android:layout_y="401dp"
+        android:backgroundTint="@color/Block"
+        android:ems="10"
+        android:hint="0"
+        android:inputType="text"
+        android:textAlignment="center" />
+
+</AbsoluteLayout>

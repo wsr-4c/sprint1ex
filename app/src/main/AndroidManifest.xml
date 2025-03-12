@@ -22,6 +22,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".HelloActivity"/>
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".OutdoorActivity"/>
+        <activity android:name=".PopularitiActivity"/>
+        <activity android:name=".StraightActivity"/>
+        <activity android:name=".TravelActivity" />
     </application>
 
 </manifest>

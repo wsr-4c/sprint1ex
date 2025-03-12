@@ -1,6 +1,5 @@
 package com.example.sprint1;
 
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -12,7 +11,7 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity { // Расширение класса MainActivity до AppCompatActivity
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,9 +25,9 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    Button batonchik = findViewById(R.id.button);
+    Button batonchik = findViewById(R.id.button); // объявляем кнопку batonchik
 
-        public void onClick1(View v){
+        public void onClick1(View v){ // Метод для перехода н другую Activity
             Intent intent = new Intent (MainActivity.this, HelloActivity.class);
             startActivity(intent);
         }

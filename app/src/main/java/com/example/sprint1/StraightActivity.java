@@ -1,4 +1,6 @@
 package com.example.sprint1;
 
-public class StraightActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class StraightActivity extends AppCompatActivity { // Расширение класса StraightActivity до AppCompatActivity
 }

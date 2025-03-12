@@ -45,6 +45,29 @@
     <string name= "desriptionMensShoes">Вставка Max Air 270 обеспечивает непревзойденный комфорт в течение всего дня. Изящный дизайн ........</string>
     <string name= "podrobnee">Подробнее</string>
     <string name= "inmycart">В Корзину</string>
-
-
+    <string name= "register">Регистрация</string>
+    <string name= "descriptionRegister">Заполните Свои данные или продолжите через социальные медиа</string>
+    <string name= "nameregister">Ваше имя</string>
+    <string name= "Mailregister">Email</string>
+    <string name= "passwordregister">Пароль</string>
+    <string name= "soglasie">Даю согласие на обработку персональных данных</string>
+    <string name= "account">Есть аккаунт?</string>
+    <string name= "korzina">Корзина</string>
+    <string name= "logIn">Войти</string>
+    <string name= "podtv">Подтвердить</string>
+    <string name= "forgot">Забыл Пароль?</string>
+    <string name= "OTPprov">ОТР Проверка</string>
+    <string name= "descriptionOTP">Пожалуйста, проверьте свою электронную почту, чтобы увидеть код подтверждения</string>
+    <string name= "OTPkod">ОТР Код</string>
+    <string name= "otprzanovo">Отправить заново</string>
+    <string name= "push">Отправить</string>
+    <string name= "regacc">Зарегистрироваться</string>
+    <string name= "coontact">Контактная информация</string>
+    <string name= "adresses">Адрес</string>
+    <string name= "paypal">Способ оплаты</string>
+    <string name= "add_pay">Добавить</string>
+    <string name= "add_prim">1082 Аэропорт, Нигерии</string>
+    <string name= "telephone">Телефон</string>
+    <string name= "chekcart">Посмотреть на карте</string>
+    <string name= "descriptionForgot">Введите Свою Учетную Запись Для Сброса</string>
 </resources>

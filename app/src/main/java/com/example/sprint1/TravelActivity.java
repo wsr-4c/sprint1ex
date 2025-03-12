@@ -1,4 +1,6 @@
 package com.example.sprint1;
 
-public class TravelActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class TravelActivity extends AppCompatActivity { // Расширение класса TravelActivity до AppCompatActivity
 }
