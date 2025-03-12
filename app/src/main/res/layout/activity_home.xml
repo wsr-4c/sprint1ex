@@ -211,27 +211,33 @@
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="wrap_content"
+        android:layout_width="106dp"
         android:layout_height="wrap_content"
-        android:layout_x="44dp"
-        android:layout_y="198dp"
-        android:text="@string/all" />
+        android:layout_x="25dp"
+        android:layout_y="200dp"
+        android:backgroundTint="@color/White"
+        android:text="@string/all"
+        android:textColor="@color/Text" />
 
     <Button
         android:id="@+id/button5"
-        android:layout_width="wrap_content"
+        android:layout_width="117dp"
         android:layout_height="wrap_content"
-        android:layout_x="157dp"
-        android:layout_y="197dp"
-        android:text="@string/outdoor" />
+        android:layout_x="145dp"
+        android:layout_y="199dp"
+        android:backgroundTint="@color/White"
+        android:text="@string/outdoor"
+        android:textColor="@color/Text" />
 
     <Button
         android:id="@+id/button6"
-        android:layout_width="wrap_content"
+        android:layout_width="103dp"
         android:layout_height="wrap_content"
-        android:layout_x="271dp"
-        android:layout_y="196dp"
-        android:text="@string/tennis" />
+        android:layout_x="278dp"
+        android:layout_y="199dp"
+        android:backgroundTint="@color/White"
+        android:text="@string/tennis"
+        android:textColor="@color/Text" />
 
     <TextView
         android:id="@+id/textView14"

@@ -35,6 +35,7 @@
         android:layout_height="73dp"
         android:layout_x="16dp"
         android:layout_y="610dp"
+        android:backgroundTint="@color/Block"
         android:text="@string/nachat"
         android:textColor="@color/Text" />
 
