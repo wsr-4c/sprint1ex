@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_x="0dp"
+    android:layout_y="0dp"
+    android:background="@color/Background"
+    tools:ignore="Deprecated">
+
+
+    <ImageView
+        android:id="@+id/imageView59"
+        android:layout_width="425dp"
+        android:layout_height="141dp"
+        android:layout_x="-18dp"
+        android:layout_y="141dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_27"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <ImageView
+        android:id="@+id/imageView64"
+        android:layout_width="113dp"
+        android:layout_height="125dp"
+        android:layout_x="19dp"
+        android:layout_y="151dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_28"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/textView36"
+        android:layout_width="165dp"
+        android:layout_height="45dp"
+        android:layout_x="149dp"
+        android:layout_y="182dp"
+        android:text="@string/NikeAirMax270Essential"
+        android:textColor="@color/Text"
+        android:textSize="48px" />
+
+    <TextView
+        android:id="@+id/textView35"
+        android:layout_width="68dp"
+        android:layout_height="wrap_content"
+        android:layout_x="271dp"
+        android:layout_y="245dp"
+        android:text="$260.00"
+        android:textSize="30px"
+        android:textAlignment="center"
+        android:textColor="@color/SubTextDark" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_x="149dp"
+        android:layout_y="245dp"
+        android:text="$364.95"
+        android:textSize="30px"
+        android:textAlignment="center"
+        android:textColor="@color/Text" />
+
+    <TextView
+        android:id="@+id/textView38"
+        android:layout_width="95dp"
+        android:layout_height="wrap_content"
+        android:layout_x="148dp"
+        android:layout_y="149dp"
+        android:textSize="30px"
+        android:text="№ 325536516"
+        android:textAlignment="center"
+        android:textColor="@color/Accent" />
+
+    <TextView
+        android:id="@+id/textView39"
+        android:layout_width="95dp"
+        android:layout_height="wrap_content"
+        android:layout_x="272dp"
+        android:layout_y="148dp"
+        android:text="7 минут назад"
+        android:textSize="35px"
+        android:textAlignment="center"
+        android:textColor="@color/SubTextDark" />
+
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="425dp"
+        android:layout_height="141dp"
+        android:layout_x="-19dp"
+        android:layout_y="288dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_27"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="113dp"
+        android:layout_height="125dp"
+        android:layout_x="19dp"
+        android:layout_y="297dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_28"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="165dp"
+        android:layout_height="45dp"
+        android:layout_x="149dp"
+        android:layout_y="328dp"
+        android:text="@string/NikeAirMax270Essential"
+        android:textColor="@color/Text"
+        android:textSize="48px" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="95dp"
+        android:layout_height="wrap_content"
+        android:layout_x="270dp"
+        android:layout_y="298dp"
+        android:text="7 минут назад"
+        android:textAlignment="center"
+        android:textColor="@color/SubTextDark"
+        android:textSize="35px" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="68dp"
+        android:layout_height="wrap_content"
+        android:layout_x="269dp"
+        android:layout_y="395dp"
+        android:text="$260.00"
+        android:textAlignment="center"
+        android:textColor="@color/SubTextDark"
+        android:textSize="30px" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_x="147dp"
+        android:layout_y="395dp"
+        android:text="$364.95"
+        android:textAlignment="center"
+        android:textColor="@color/Text"
+        android:textSize="30px" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="95dp"
+        android:layout_height="wrap_content"
+        android:layout_x="146dp"
+        android:layout_y="299dp"
+        android:text="№ 325536516"
+        android:textAlignment="center"
+        android:textColor="@color/Accent"
+        android:textSize="30px" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="60dp"
+        android:layout_height="117dp"
+        android:layout_x="323dp"
+        android:layout_y="627dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_60"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="36dp"
+        android:layout_height="35dp"
+        android:layout_x="19dp"
+        android:layout_y="41dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_22"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="264dp"
+        android:layout_height="35dp"
+        android:layout_x="67dp"
+        android:layout_y="46dp"
+        android:text="@string/orders"
+        android:textAlignment="center"
+        android:textColor="@color/Text"
+        android:textSize="48px" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="264dp"
+        android:layout_height="35dp"
+        android:layout_x="14dp"
+        android:layout_y="108dp"
+        android:text="@string/nedav"
+        android:textColor="@color/Text"
+        android:textSize="48px" />
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="264dp"
+        android:layout_height="35dp"
+        android:layout_x="13dp"
+        android:layout_y="435dp"
+        android:text="@string/vchera"
+        android:textColor="@color/Text"
+        android:textSize="48px" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="425dp"
+        android:layout_height="141dp"
+        android:layout_x="-10dp"
+        android:layout_y="480dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_27"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <ImageView
+        android:id="@+id/imageView71"
+        android:layout_width="302dp"
+        android:layout_height="127dp"
+        android:layout_x="17dp"
+        android:layout_y="625dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_27"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <TextView
+        android:id="@+id/textView319"
+        android:layout_width="165dp"
+        android:layout_height="45dp"
+        android:layout_x="151dp"
+        android:layout_y="521dp"
+        android:text="@string/NikeAirMax270Essential"
+        android:textColor="@color/Text"
+        android:textSize="48px" />
+
+    <TextView
+        android:id="@+id/textView320"
+        android:layout_width="95dp"
+        android:layout_height="wrap_content"
+        android:layout_x="274dp"
+        android:layout_y="487dp"
+        android:text="10:23"
+        android:textAlignment="center"
+        android:textColor="@color/SubTextDark"
+        android:textSize="35px" />
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="68dp"
+        android:layout_height="wrap_content"
+        android:layout_x="273dp"
+        android:layout_y="584dp"
+        android:text="$260.00"
+        android:textAlignment="center"
+        android:textColor="@color/SubTextDark"
+        android:textSize="30px" />
+
+    <TextView
+        android:id="@+id/textView317"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_x="151dp"
+        android:layout_y="584dp"
+        android:text="$364.95"
+        android:textAlignment="center"
+        android:textColor="@color/Text"
+        android:textSize="30px" />
+
+    <TextView
+        android:id="@+id/textView318"
+        android:layout_width="95dp"
+        android:layout_height="wrap_content"
+        android:layout_x="150dp"
+        android:layout_y="488dp"
+        android:text="№ 325536516"
+        android:textAlignment="center"
+        android:textColor="@color/Accent"
+        android:textSize="30px" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="113dp"
+        android:layout_height="125dp"
+        android:layout_x="21dp"
+        android:layout_y="484dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_28"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+    <ImageView
+        android:id="@+id/imageView72"
+        android:layout_width="113dp"
+        android:layout_height="125dp"
+        android:layout_x="23dp"
+        android:layout_y="628dp"
+        android:importantForAccessibility="no"
+        app:srcCompat="@drawable/img_28"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="341dp"
+        tools:layout_editor_absoluteY="418dp" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="164dp"
+        android:layout_height="wrap_content"
+        android:layout_x="149dp"
+        android:layout_y="656dp"
+        android:text="@string/NikeAirMax200"
+        android:textAlignment="center"
+        android:textColor="@color/Text"
+        android:textSize="48px" />
+
+    <TextView
+        android:id="@+id/textView70"
+        android:layout_width="59dp"
+        android:layout_height="wrap_content"
+        android:layout_x="155dp"
+        android:layout_y="689dp"
+        android:text="₽94.05"
+        android:textAlignment="center"
+        android:textColor="@color/Text"
+        android:textSize="30px" />
+
+
+</AbsoluteLayout>

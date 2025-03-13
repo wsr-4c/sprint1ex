@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    tools:ignore="Deprecated"
     android:layout_x="0dp"
     android:layout_y="0dp"
     android:background="@color/Background">
@@ -173,8 +174,8 @@
         android:layout_y="29dp"
         android:importantForAccessibility="no"
         app:srcCompat="@drawable/img_44"
-        tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="341dp"
+        tools:ignore="Deprecated"
         tools:layout_editor_absoluteY="418dp" />
 
     <ImageView

@@ -17,7 +17,6 @@
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
@@ -27,6 +26,22 @@
         <activity android:name=".PopularitiActivity"/>
         <activity android:name=".StraightActivity"/>
         <activity android:name=".TravelActivity" />
+        <activity android:name=".CheckOutActivity" />
+        <activity android:name=".DetailOrderActivity" />
+        <activity android:name=".Details2Activity" />
+        <activity android:name=".DetailsActivity" />
+        <activity android:name=".EditProfileActivity" />
+        <activity android:name=".ForgotPasswordActivity" />
+        <activity android:name=".IzbrannoActivity" />
+        <activity android:name=".MainSearchActivity" />
+        <activity android:name=".MyCartActivity" />
+        <activity android:name=".NotificationActivity" />
+        <activity android:name=".OrdersActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".SearchActivity" />
+        <activity android:name=".SideMenuActivity" />
+        <activity android:name=".VerificationActivity" />
     </application>
 
 </manifest>

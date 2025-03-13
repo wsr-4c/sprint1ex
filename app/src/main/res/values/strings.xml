@@ -70,4 +70,24 @@
     <string name= "telephone">Телефон</string>
     <string name= "chekcart">Посмотреть на карте</string>
     <string name= "descriptionForgot">Введите Свою Учетную Запись Для Сброса</string>
+    <string name="orders">Заказы</string>
+    <string name="nedav">Недавний</string>
+    <string name="profile">Профиль</string>
+    <string name="vchera">Вчера</string>
+    <string name="emmaoui">Emmanuel Oyiboke</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="emm">Emmanuel</string>
+    <string name="oyi">Oyiboke</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="edit">Изменить фото пофиля</string>
+    <string name="telephone7811">+7 811-732-5298</string>
+    <string name="save">Сохранить</string>
+    <string name="emq">Эммануэль Кверти</string>
+    <string name="pushapp">Уведомления</string>
+    <string name="settings">Настройки</string>
+    <string name="quit">Выйти</string>
+
+
+
 </resources>
